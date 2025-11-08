@@ -1,1 +1,1 @@
-there is a static folder also which is not uploaded because of bigger file size
+book recommendation system run app.py to show results
